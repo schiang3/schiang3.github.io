@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Feb 2021 18:52:06 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyzing the Diabetes Outcome of Pima Indian Women (R)</title>
+      <link>/project/pima_indian/</link>
+      <pubDate>Sun, 21 Feb 2021 18:52:06 -0600</pubDate>
+      
+      <guid>/project/pima_indian/</guid>
+      <description>Utilized statistical methods and logistic regression to answer research questions; Glucose, BMI, and pedigree function has positive influences on diabetes outcome, and Glucose is the most significant variable in analyzing diabetes outcome
+  Utilized eXtreme Gradient Boosting to predict diabetes outcome and achieved 88.31% accuracy
+  Link 1: Click here to see project
+Link 2:Click here to see R code</description>
+    </item>
+    
+    <item>
+      <title>Car Insurance Claim (SAS)</title>
+      <link>/project/car_insurance_claim/</link>
+      <pubDate>Sun, 21 Feb 2021 18:52:06 -0600</pubDate>
+      
+      <guid>/project/car_insurance_claim/</guid>
+      <description>Utilized statistical methods and logistic regression to analyze policyholders’ backgrounds who filed a car insurance claim. The data sight can be applied to adjust the car insurance rate based on policyholders’ risk level. Built regression models in SAS, compared model selection results, and achieved 75% accuracy  Link 1: Click here to see project
+Link 2:Click here to see SAS code</description>
+    </item>
+    
+    <item>
+      <title>Covid-19 Related Scientific Papers Text Analysis</title>
+      <link>/project/covid_19_text_analysis/</link>
+      <pubDate>Sun, 21 Feb 2021 18:52:06 -0600</pubDate>
+      
+      <guid>/project/covid_19_text_analysis/</guid>
+      <description>Link: Click here to see project
+  Utilized Natural Language Processing and machine learning to classify scientistic papers to help medical communities develop answers and applied PyLDAvis on topic modeling to interpret the top 30 terms across document collections.
+  Trained KNN, Random Forest, and Gradient Boosting models, and achieved 85.7% accuracy in document classification
+  Applied search engine ranking algorithm to estimate the similarity of documents with scientific questions search query</description>
+    </item>
+    
+    <item>
+      <title>IBM HR Analytics Employee Arrition project</title>
+      <link>/project/ibm_hr_analytics/</link>
+      <pubDate>Sun, 21 Feb 2021 18:52:06 -0600</pubDate>
+      
+      <guid>/project/ibm_hr_analytics/</guid>
+      <description>Link 1: Click here to see project
+  Utilized machine learning to predict employee attrition and compare different resampling methods to increase model accuracy, applied data visualization to find relationships between attrition and factors.
+  Conducted resampling methods, feature selections, machine learning algorithms (Gradient boosting, Random Forest, Decision Trees, and Support Vector Machine) to predict attrition and achieved an accuracy of 83.3%
+  </description>
+    </item>
+    
+    <item>
+      <title>Time series of Google stock prices (R)</title>
+      <link>/project/time_series/</link>
+      <pubDate>Sun, 21 Feb 2021 18:52:06 -0600</pubDate>
+      
+      <guid>/project/time_series/</guid>
+      <description>Use Auto ARIMA, SARIMA, Forecast to capture the trend of google stock in R.  Link 1: Click here to see project
+Link 2:Click here to see R code ~</description>
+    </item>
+    
+    <item>
+      <title>Toxic Comment Classification (Python)</title>
+      <link>/project/toxic_comment/</link>
+      <pubDate>Sun, 21 Feb 2021 18:52:06 -0600</pubDate>
+      
+      <guid>/project/toxic_comment/</guid>
+      <description>Preprocessing: compare two text cleaning approaches used TfidfVectorizer and NLTK Model training: SGDClassifier, Navies Bayes, and logistic regression (Jupyter Notebook, Scikit-learn) Accuracy of SGDClassifier is 94%  Link 1: Click here to see project
+Link 2:Click here to see jupyternotebook</description>
+    </item>
+    
+    <item>
+      <title> Hello with Hugo</title>
+      <link>/post/hello/</link>
+      <pubDate>Sun, 21 Feb 2021 18:30:57 -0600</pubDate>
+      
+      <guid>/post/hello/</guid>
+      <description>I learned to build this website using Hugo.
+Thanks to YouTube.
+If anyone is interested in creating blog with Hugo and Github, you can follow Horea Porutiu on YouTube.
+It&amp;rsquo;s very easy to follow along:)</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Sun, 07 Feb 2021 01:24:34 -0600</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Email : schiang317@gmail.com
+ Currently living in Chicago Actively seeking full-time opportunity in data analytics, data science, and machine learning.  </description>
+    </item>
+    
+    <item>
+      <title> About Me</title>
+      <link>/about/</link>
+      <pubDate>Fri, 05 Feb 2021 23:21:58 -0600</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi I&amp;rsquo;m Shuya.
+Data science professional with robust experience in machine learning, creating statistical models with deep skills in Python, R, and SAS. My background is in business administration, and I’m passionate about utilizing algorithms to predict future trends and storytelling the results with data visualization.
+Education DePaul University, Chicago IL (Sept. 2018- November 2020)  Master&amp;rsquo;s in Data Science: Computational Methods Concentration GPA: 3.75 /4.0 Relevant Coursework: Machine Learning, Neural Networks&amp;amp; Deep Learning, Mining Big Data, Time Series Analysis, Health Data Science, SQL Server Database, Data Analysis  Skill  • Programming Languages &amp;amp; Data Visualization: Python, R, SAS, SQL, SPSS, Tableau, Looker, Power BI</description>
+    </item>
+    
+  </channel>
+</rss>
